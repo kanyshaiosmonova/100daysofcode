@@ -15,4 +15,4 @@
  I think if I'll continue coding actively I'll learn all those thins by heart.
  So, if I don't know something today, it's okay.
  <br />
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Nature,Landscape photographing website](https://kanyshaiosmonova.github.io/100daysofcode/Day1)
