@@ -1,2 +1,0 @@
-[Flip 3D Card CSS Feature Example №1](https://kanyshaiosmonova.github.io/100daysofcode/Day2/Example1/)
-[Flip 3D Card CSS Feature Example №2](https://kanyshaiosmonova.github.io/100daysofcode/Day-2/Example-2/)
