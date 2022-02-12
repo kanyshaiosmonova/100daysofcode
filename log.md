@@ -23,4 +23,4 @@
 <br />
 **Thoughts:** Day2 of #100DaysOfCode. That's so cool. I want to keep learning. During the process of code practice I'm learning more than just watching theories. 
 <br /> 
-**Link to work:** 1. [Front, Back card]() 2. [Credit Card's Front and Back](https://kanyshaiosmonova.github.io/100daysofcode/Day2/Example2/index.html)
+**Link to work:** 1. [Front, Back card](https://kanyshaiosmonova.github.io/100daysofcode/Day2/Example1/index.html) 2. [Credit Card's Front and Back](https://kanyshaiosmonova.github.io/100daysofcode/Day2/Example2/index.html)
