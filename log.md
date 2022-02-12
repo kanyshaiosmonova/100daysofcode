@@ -15,7 +15,7 @@
  I think if I'll continue coding actively I'll learn all those thins by heart.
  So, if I don't know something today, it's okay.
  <br />
-**Link to work:** [Nature,Landscape photographing website](https://kanyshaiosmonova.github.io/100daysofcode/Day1)
+**Link to work:** [Nature, Landscape photographing website](https://kanyshaiosmonova.github.io/100daysofcode/Day1)
 
 ### Day 2: February 12, 2022
 
@@ -23,4 +23,4 @@
 <br />
 **Thoughts:** Day2 of #100DaysOfCode. That's so cool. I want to keep learning. During the process of code practice I'm learning more than just watching theories. 
 <br /> 
-**Link to work:** [Front, Back card](), [Credit Card's Front and Back] ()
+**Link to work:** 1. [Front, Back card]() 2. [Credit Card's Front and Back](https://kanyshaiosmonova.github.io/100daysofcode/Day2/Example2/index.html)
