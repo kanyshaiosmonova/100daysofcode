@@ -16,3 +16,11 @@
  So, if I don't know something today, it's okay.
  <br />
 **Link to work:** [Nature,Landscape photographing website](https://kanyshaiosmonova.github.io/100daysofcode/Day1)
+
+### Day 2: February 12, 2022
+
+**Today's Progress**: Flip 3D Card with CSS. CSS Feature #1 that I've learnt.
+<br />
+**Thoughts:** Day2 of #100DaysOfCode. That's so cool. I want to keep learning. During the process of code practice I'm learning more than just watching theories. 
+<br /> 
+**Link to work:** [Front, Back card](), [Credit Card's Front and Back] ()
