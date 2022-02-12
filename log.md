@@ -2,12 +2,12 @@
 
 ### Day 1: February 11, 2022 
 
-**Today's Progress**: Created a Website with HTMl and CSS.
+**Today's Progress**: Created a Website with HTML and CSS.
  <br />
 **Thoughts:** I really struggled with CSS. 
  Watched the tutorial again and again.
  Paused and tried to code along.
- Website is created woth beautiful hover effect,
+ Website is created with beautiful hover effect,
  bachground color moves, navbar has lines in bottom. 
  Lines width increases and decreases.
  It has 2 buttons also with hover effects.
