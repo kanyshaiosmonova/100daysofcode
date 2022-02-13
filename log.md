@@ -31,4 +31,4 @@
 <br>
 **Thoughts:** I've learned about my little-studied topics i.e positioning, relative, absolute, z-index, svg and etc.  I have to learn them and read documentations on MDN. So, wish me luck!😄
 <br>
-**Link to work:** [ ]()
+**Link to work:** [Block with adaptive layout. CSS Feature #2 ](https://kanyshaiosmonova.github.io/100daysofcode/Day3/index.html   )
