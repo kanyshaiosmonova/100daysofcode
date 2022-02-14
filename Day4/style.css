@@ -3,7 +3,7 @@ body{
     background-color: #3d385a;
 }
 .section{
-
+    perspective: 1000px;
 }
 .container{
 
