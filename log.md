@@ -41,3 +41,12 @@
 So I will come back later and finish this last part. There are lots of things that I don't know yet(
 <br>
 **Link to work:**[Transform 3D Card Portfolio](https://kanyshaiosmonova.github.io/100daysofcode/Day4/index.html)
+
+### Day 5: February 15, 2022
+
+**Today's Progress:** CSS Feature #4. Burger Menu Button 
+<br>
+**Thoughts:** What was new and hard for me. According to tutorial I had add Jquery but I don't know it yet. That's why I tried to add it through CDN link. But it didn't work. 
+So I will come back later and finish this last part. There are lots of things that I don't know yet(
+<br>
+**Link to work:**[Transform 3D Card Portfolio](https://kanyshaiosmonova.github.io/100daysofcode/Day5/index.html)
