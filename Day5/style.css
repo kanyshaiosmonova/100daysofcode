@@ -35,4 +35,28 @@
 }
 
 .menu-block {
-  display: flex;
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu-nav {
+  background-color: #fff;
+  height: 50px;
+  
+}
+.menu-nav__link {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  margin-right: 20px;
+}
+.menu-nav__link {
+  transition: 0.5s;
+  transform-origin: right center;
+  transform: translateX(50%);
+  opacity: 0;
+}
+.menu-nav__link_active {
+  transform: translateX(0%);
+  opacity: 1;
+}
