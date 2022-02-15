@@ -32,3 +32,12 @@
 **Thoughts:** I've learned about my little-studied topics i.e positioning, relative, absolute, z-index, svg and etc.  I have to learn them and read documentations on MDN. So, wish me luck!😄
 <br>
 **Link to work:** [Block with adaptive layout. CSS Feature #2 ](https://kanyshaiosmonova.github.io/100daysofcode/Day3/index.html   )
+
+### Day 4: February 14, 2022
+
+**Today's Progress:** CSS Feature #3. Transform 3D Card Portfolio.Combined 2 features that I've learned earlier. 
+<br>
+**Thoughts:** What was new and hard for me. According to tutorial I had add Jquery but I don't know it yet. That's why I tried to add it through CDN link. But it didn't work. 
+So I will come back later and finish this last part. There are lots of things that I don't know yet(
+<br>
+**Link to work:**[Transform 3D Card Portfolio](https://kanyshaiosmonova.github.io/100daysofcode/Day4/index.html)
