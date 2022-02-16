@@ -46,7 +46,14 @@ So I will come back later and finish this last part. There are lots of things th
 
 **Today's Progress:** CSS Feature #4. Burger Menu Button 
 <br>
-**Thoughts:** What was new and hard for me. According to tutorial I had add Jquery but I don't know it yet. That's why I tried to add it through CDN link. But it didn't work. 
-So I will come back later and finish this last part. There are lots of things that I don't know yet(
+**Thoughts:** I've learned how to correctly add jQuery.
 <br>
 **Link to work:**[Burger Menu Button](https://kanyshaiosmonova.github.io/100daysofcode/Day5/index.html)
+
+### Day 6: February 16, 2022
+
+**Today's Progress:** Completed Course CSS on Code Basics
+<br>
+**Thoughts:** Learned new things about animations, fonts and took notes.  Since there were a lot of practical parts, I decided to add this here today.  I learned about how to download the font and connect to the file.
+<br>
+**Link to work:**[Certificate](https://drive.google.com/file/d/1iDGyBir1I7L0jL5DXoytqeyqFO2wzXLc/view?usp=drivesdk)
