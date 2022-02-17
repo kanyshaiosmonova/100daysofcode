@@ -31,13 +31,13 @@
 }
 .city{
     width: 500%;
-    height: 500px;
+    height: 350px;
     position: absolute;
     left: 0;
     right: 0;
     bottom: 200px;
     display: block;
-    background-image: url(images/city.jpg);
+    background-image: url(images/city.png);
     background-repeat: repeat-x;
     animation: city 20s linear infinite;
     z-index: 1;
