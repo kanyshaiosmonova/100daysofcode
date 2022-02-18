@@ -57,3 +57,20 @@ So I will come back later and finish this last part. There are lots of things th
 **Thoughts:** Learned new things about animations, fonts and took notes.  Since there were a lot of practical parts, I decided to add this here today.  I learned about how to download the font and connect to the file.
 <br>
 **Link to work:** [Certificate](https://github.com/kanyshaiosmonova/100daysofcode/tree/main/Day6)
+
+### Day 7: February 17, 2022
+
+**Today's Progress:** Running Car Animation with CSS
+<br>
+**Thoughts:** Create a project according to tutorial was easy. But then I wanted to find another photoes, animations, illustrations but couldn't. I understand lack of design, photoshop skills. I gotta learn them no matter what. But now only coding at first.
+<br>
+**Link to work:** [Running Car ](https://kanyshaiosmonova.github.io/100daysofcode/Day7/index.html)
+
+### Day 8: February 18, 2022
+
+**Today's Progress:** CSS Animations
+<br>
+**Thoughts:** Practiced CSS Animations and created 2 projects
+<br>
+**Link to work:** 1.[CSS Animation Example 1](https://kanyshaiosmonova.github.io/100daysofcode/Day8/example1.html) <br>
+2.[Loading Screen Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day8/example2.html)
