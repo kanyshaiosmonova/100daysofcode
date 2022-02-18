@@ -46,7 +46,7 @@ So I will come back later and finish this last part. There are lots of things th
 
 **Today's Progress:** CSS Feature #4. Burger Menu Button 
 <br>
-**Thoughts:** I've learned how to correctly add jQuery.
+**Thoughts:** I've learned how to correctly add jQuery. Click menu burger and see changes👇👇👇
 <br>
 **Link to work:** [Burger Menu Button](https://kanyshaiosmonova.github.io/100daysofcode/Day5/index.html)
 
