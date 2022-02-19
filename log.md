@@ -82,4 +82,4 @@ So I will come back later and finish this last part. There are lots of things th
 **Thoughts:** Today I tried to make a pie chart with a timer in CSS and HTML.But I'm stuck and don't understand why. Could anyone review my code and tell me why it isn't working?
  But then a friend of mine helped me. Thanks to Moldogazy) it is working now.
 <br>
-**Link to work:"* [Timer in CSS and HTML](https://kanyshaiosmonova.github.io/100daysofcode/Day9/index.html)
+**Link to work:** [Timer in CSS and HTML](https://kanyshaiosmonova.github.io/100daysofcode/Day9/index.html)
