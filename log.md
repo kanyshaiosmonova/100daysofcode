@@ -74,3 +74,12 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Link to work:** 1.[CSS Animation Example 1](https://kanyshaiosmonova.github.io/100daysofcode/Day8/example1.html) <br>
 2.[Loading Screen Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day8/example2.html)
+
+### Day 9: February 19, 2022
+
+**Today's Progress:** Pie Chart with a Timer in CSS and HTML. 
+<br>
+**Thoughts:** Today I tried to make a pie chart with a timer in CSS and HTML.But I'm stuck and don't understand why. Could anyone review my code and tell me why it isn't working?
+ But then a friend of mine helped me. Thanks to Moldogazy) it is working now.
+<br>
+**Link to work:** [Timer in CSS and HTML](https://kanyshaiosmonova.github.io/100daysofcode/Day9/index.html)
