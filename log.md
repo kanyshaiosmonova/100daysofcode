@@ -83,3 +83,12 @@ So I will come back later and finish this last part. There are lots of things th
  But then a friend of mine helped me. Thanks to Moldogazy) it is working now.
 <br>
 **Link to work:** [Timer in CSS and HTML](https://kanyshaiosmonova.github.io/100daysofcode/Day9/index.html)
+
+### Day 10: February 20, 2022
+
+**Today's Progress:** Completed game Flex Froggy and Grid Garden. Learnt a lot of new things that I didn't know before. 
+<br>
+**Thoughts:** I took notes. From now on I know why and we use things like justify-content:center, align-items:center. It's so clear now.
+<br>
+**Link to work:**[Link to tweet: ](https://twitter.com/Kaniosmonova/status/1495318946664357895)
+
