@@ -92,3 +92,12 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Link to work:**[Link to tweet: ](https://twitter.com/Kaniosmonova/status/1495318946664357895)
 
+### Day 11: February 21, 2022
+
+**Today's Progress:** CSS Feature #5
+<br>
+**Thoughts:** I took notes. From now on I know why and we use things like justify-content:center, align-items:center. It's so clear now.
+<br>
+**Link to work:**[Link to tweet: ](https://twitter.com/Kaniosmonova/status/1495318946664357895)
+
+
