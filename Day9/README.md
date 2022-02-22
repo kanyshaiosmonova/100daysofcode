@@ -1,1 +1,0 @@
-https://kanyshaiosmonova.github.io/100daysofcode/Day9/index.html

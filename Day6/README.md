@@ -1,1 +1,0 @@
-<img src="css-certificate.png" alt="certificate">
