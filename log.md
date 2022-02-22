@@ -96,8 +96,18 @@ So I will come back later and finish this last part. There are lots of things th
 
 **Today's Progress:** CSS Feature #5
 <br>
-**Thoughts:** I took notes. From now on I know why and we use things like justify-content:center, align-items:center. It's so clear now.
+**Thoughts:** Just wow. Wow to that educational tutorial. It's very helpful. Right now I'm coding along and pause the way video and try to redo it. I think for beginners it's also helpful
 <br>
-**Link to work:**[CSS Feature #5]()
+**Link to work:**[Burger Menu Button with Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day11/index.html
+)
+
+### Day 12: February 22, 2022
+
+**Today's Progress:** CSS Grid
+<br>
+**Thoughts:** I didn't know enough before about Grid. But every day it gets clearer
+<br>
+**Link to work:**[Responsive Masonry layouts Using CSS Grid](https://kanyshaiosmonova.github.io/100daysofcode/Day12/index.html
+)
 
 
