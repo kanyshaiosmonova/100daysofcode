@@ -1,2 +1,2 @@
-[Burger Menu Button with Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day11/index.html
+[Burger Menu Button with Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day-11/index.html
 )
