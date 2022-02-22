@@ -1,1 +1,1 @@
-https://kanyshaiosmonova.github.io/100daysofcode/Day3/index.html
+https://kanyshaiosmonova.github.io/100daysofcode/Day-3/index.html
