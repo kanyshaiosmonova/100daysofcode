@@ -101,11 +101,11 @@ So I will come back later and finish this last part. There are lots of things th
 **Link to work:**[Burger Menu Button with Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day11/index.html
 )
 
-### Day 12: February 22, 2022
+### Day 12: February 22-23, 2022
 
 **Today's Progress:** CSS Grid
 <br>
-**Thoughts:** I didn't know enough before about Grid. But every day it gets clearer
+**Thoughts:** I didn't know enough before about Grid. But every day it gets clearer. But today I was very tires physically and emotionally. That's why my brain is not working correctly. I couldn't do this project correctly. It was with svg files. But they were not free. I downloaded pngs but it didn't work out. I need a rest
 <br>
 **Link to work:**[Responsive Masonry layouts Using CSS Grid](https://kanyshaiosmonova.github.io/100daysofcode/Day12/index.html
 )
