@@ -112,5 +112,8 @@ So I will come back later and finish this last part. There are lots of things th
 
 ### Day 13: February 24, 2022
 
-**Today's Progress:** CSS Flex
-
+**Today's Progress:** Portfolio page with lots of  CSS Flex
+<br>
+**Thoughts:** It was my homework. To create a navbar. Practiced Git and Github, Git branches very much.
+<br>
+**Link to worj:**[]()
