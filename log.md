@@ -110,4 +110,7 @@ So I will come back later and finish this last part. There are lots of things th
 **Link to work:**[Responsive Masonry layouts Using CSS Grid](https://kanyshaiosmonova.github.io/100daysofcode/Day12/index.html
 )
 
+### Day 13: February 24, 2022
+
+**Today's Progress:** CSS Flex
 
