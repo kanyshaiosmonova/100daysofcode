@@ -116,7 +116,8 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Thoughts:** It was my homework. To create a navbar. Practiced Git and Github, Git branches very much.
 <br>
-**Link to worj:**[]()
+**Link to work:**[Navigation bar with CSS Flex](https://kanyshaiosmonova.github.io/100daysofcode/Day13/index.html
+)
 
 
 ### Day 14: February 25, 2022
