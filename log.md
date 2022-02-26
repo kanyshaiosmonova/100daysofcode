@@ -130,8 +130,8 @@ So I will come back later and finish this last part. There are lots of things th
 
 ### Day 15: February 26, 2022
 
-**Today's Progress:** Portfolio page with lots of  CSS Flex
+**Today's Progress:** NFT preview Card component challenge from Frontend Mentor
 <br>
-**Thoughts:** It was my homework. To create a navbar. Practiced Git and Github, Git branches very much.
+**Thoughts:** Second challenge. It' pretty cool. People are reviewing my code and giving me feedback there on Frontend Mentor. That's really cool.
 <br>
 **Link to work:**  [NFT-preview-Card-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/nft-preview-card-component/index.html)
