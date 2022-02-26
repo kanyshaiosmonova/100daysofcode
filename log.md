@@ -134,4 +134,4 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Thoughts:** It was my homework. To create a navbar. Practiced Git and Github, Git branches very much.
 <br>
-**Link to work:**kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/QR-Code-component/index.html
+**Link to work:**[NFT preview card component](kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/nft-preview-card-component/index.html)
