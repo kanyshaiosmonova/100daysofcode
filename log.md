@@ -128,11 +128,11 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Link to work:**[QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/QR-Code-component/index.html)
 
-<!-- ### Day 15: February 24, 2022
+### Day 15: February 24, 2022
 
 **Today's Progress:** Portfolio page with lots of  CSS Flex
 <br>
 **Thoughts:** It was my homework. To create a navbar. Practiced Git and Github, Git branches very much.
 <br>
 **Link to work:**[]()
-- Github Pages: [QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/QR-Code-component/index.html) -->
+- Github Pages: [QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/QR-Code-component/index.html)
