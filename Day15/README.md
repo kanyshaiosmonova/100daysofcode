@@ -1,0 +1,1 @@
+[QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/nft-preview-card-component/index.html)
