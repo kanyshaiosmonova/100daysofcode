@@ -124,15 +124,21 @@ So I will come back later and finish this last part. There are lots of things th
 
 **Today's Progress:** QR Code component from Frontend Mentor
 <br>
-**Thoughts:** First Challenge from Frontend Mentor
+**Thoughts:** First Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/QR-Code-component/README.md)
 <br>
 **Link to work:**[QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/QR-Code-component/index.html)
 
-<!-- ### Day 15: February 24, 2022
+### Day 15: February 26, 2022
 
-**Today's Progress:** Portfolio page with lots of  CSS Flex
+**Today's Progress:** NFT preview card component
 <br>
-**Thoughts:** It was my homework. To create a navbar. Practiced Git and Github, Git branches very much.
+**Thoughts:** Second Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/nft-preview-card-component/README.md)
 <br>
-**Link to work:**[]()
-- Github Pages: [QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/QR-Code-component/index.html) -->
+**Link to work:**[QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/nft-preview-card-component/index.html)
+
+### Day 16: February 27, 2022
+
+**Today's Progress:** Order Summary Component
+**Thoughts:** Third Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/order-summary-component/README.md)
+<br>
+**Link to work:**[Order Summary Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/order-summary-component/index.html)
