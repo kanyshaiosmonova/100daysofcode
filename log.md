@@ -142,3 +142,11 @@ So I will come back later and finish this last part. There are lots of things th
 **Thoughts:** Third Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/order-summary-component/README.md)
 <br>
 **Link to work:**[Order Summary Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/order-summary-component/index.html)
+
+### Day 17: February 28, 2022
+
+**Today's Progress:** Profile Card Component
+**Thoughts:** Fourth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/profile-card-component)
+<br>
+**Link to work:** [Profile Card Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/profile-card-component/index.html)
+
