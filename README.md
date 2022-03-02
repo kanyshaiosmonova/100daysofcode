@@ -32,7 +32,7 @@
 |Day 15|Feb 26, 2022| NFT preview card component|First Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/QR-Code-component/README.md)|[QR-Code-component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/nft-preview-card-component/index.html)|
 |Day 16|Feb 27, 2022|Order Summary Component|Third Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/order-summary-component/README.md)|[Order Summary Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/order-summary-component/index.html)|
 |Day 17|Feb 28, 2022|Profile Card Component|Fourth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/profile-card-component)|[Profile Card Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/profile-card-component/index.html)|
-|Day 18|Mar 1, 2022|Improved Readme file of this repository 100daysofcode|I did this with the help of 's repository. It showed me new features of Github|This file looks the way it looks now because I just changed everything here.|
+|Day 18|Mar 1, 2022|Improved Readme file of this repository 100daysofcode|I did this with the help of ChandrikaDebs's repository. It showed me new features of Github|This file looks the way it looks now because I just changed everything here.|
 
 
 
