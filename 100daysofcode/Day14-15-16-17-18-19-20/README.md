@@ -32,3 +32,9 @@
 
 [Link to repo](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/3-column-preview-card-component)
 [Github Pages](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/3-column-preview-card-component/index.html)
+
+## DAY 20 Stats Preview Card Component
+### Links
+
+[Link to repo](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/stats-preview-card-component)
+[Github Pages](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/stats-preview-card-component/index.html)
