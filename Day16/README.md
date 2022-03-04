@@ -1,1 +1,0 @@
-[Order Summary Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/order-summary-component/index.html)
