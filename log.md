@@ -15,7 +15,7 @@
  I think if I'll continue coding actively I'll learn all those thins by heart.
  So, if I don't know something today, it's okay.
  <br />
-**Link to work:** [Nature, Landscape photographing website](https://kanyshaiosmonova.github.io/100daysofcode/Day1)
+**Link to work:** [Nature, Landscape photographing website](https://kanyshaiosmonova.github.io/100daysofcode/Day-1)
 
 ### Day 2: February 12, 2022
 
@@ -23,7 +23,7 @@
 <br />
 **Thoughts:** Day2 of #100DaysOfCode. That's so cool. I want to keep learning. During the process of code practice I'm learning more than just watching theories. 
 <br /> 
-**Link to work:** 1. [Front, Back card](https://kanyshaiosmonova.github.io/100daysofcode/Day2/Example1/index.html) 2. [Credit Card's Front and Back](https://kanyshaiosmonova.github.io/100daysofcode/Day2/Example2/index.html)
+**Link to work:** 1. [Front, Back card](https://kanyshaiosmonova.github.io/100daysofcode/Day-2/Example1/index.html) 2. [Credit Card's Front and Back](https://kanyshaiosmonova.github.io/100daysofcode/Day-2/Example2/index.html)
 
 ### Day 3: February 13, 2022
 
@@ -31,7 +31,7 @@
 <br>
 **Thoughts:** I've learned about my little-studied topics i.e positioning, relative, absolute, z-index, svg and etc.  I have to learn them and read documentations on MDN. So, wish me luck!😄
 <br>
-**Link to work:** [Block with adaptive layout. CSS Feature #2 ](https://kanyshaiosmonova.github.io/100daysofcode/Day3/index.html   )
+**Link to work:** [Block with adaptive layout. CSS Feature #2 ](https://kanyshaiosmonova.github.io/100daysofcode/Day-3/index.html   )
 
 ### Day 4: February 14, 2022
 
@@ -40,7 +40,7 @@
 **Thoughts:** What was new and hard for me. According to tutorial I had add Jquery but I don't know it yet. That's why I tried to add it through CDN link. But it didn't work. 
 So I will come back later and finish this last part. There are lots of things that I don't know yet(
 <br>
-**Link to work:** [Transform 3D Card Portfolio](https://kanyshaiosmonova.github.io/100daysofcode/Day4/index.html)
+**Link to work:** [Transform 3D Card Portfolio](https://kanyshaiosmonova.github.io/100daysofcode/Day-4/index.html)
 
 ### Day 5: February 15, 2022
 
@@ -48,7 +48,7 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Thoughts:** I've learned how to correctly add jQuery. Click menu burger and see changes👇👇👇
 <br>
-**Link to work:** [Burger Menu Button](https://kanyshaiosmonova.github.io/100daysofcode/Day5/index.html)
+**Link to work:** [Burger Menu Button](https://kanyshaiosmonova.github.io/100daysofcode/Day-5/index.html)
 
 ### Day 6: February 16, 2022
 
@@ -56,7 +56,7 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Thoughts:** Learned new things about animations, fonts and took notes.  Since there were a lot of practical parts, I decided to add this here today.  I learned about how to download the font and connect to the file.
 <br>
-**Link to work:** [Certificate](https://github.com/kanyshaiosmonova/100daysofcode/tree/main/Day6)
+**Link to work:** [Certificate](https://github.com/kanyshaiosmonova/100daysofcode/tree/main/Day-6)
 
 ### Day 7: February 17, 2022
 
@@ -64,7 +64,7 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Thoughts:** Create a project according to tutorial was easy. But then I wanted to find another photoes, animations, illustrations but couldn't. I understand lack of design, photoshop skills. I gotta learn them no matter what. But now only coding at first.
 <br>
-**Link to work:** [Running Car ](https://kanyshaiosmonova.github.io/100daysofcode/Day7/index.html)
+**Link to work:** [Running Car ](https://kanyshaiosmonova.github.io/100daysofcode/Day-7/index.html)
 
 ### Day 8: February 18, 2022
 
@@ -72,8 +72,8 @@ So I will come back later and finish this last part. There are lots of things th
 <br>
 **Thoughts:** Practiced CSS Animations and created 2 projects
 <br>
-**Link to work:** 1.[CSS Animation Example 1](https://kanyshaiosmonova.github.io/100daysofcode/Day8/example1.html) <br>
-2.[Loading Screen Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day8/example2.html)
+**Link to work:** 1.[CSS Animation Example 1](https://kanyshaiosmonova.github.io/100daysofcode/Day-8/example1.html) <br>
+2.[Loading Screen Animation](https://kanyshaiosmonova.github.io/100daysofcode/Day-8/example2.html)
 
 ### Day 9: February 19, 2022
 
@@ -82,7 +82,7 @@ So I will come back later and finish this last part. There are lots of things th
 **Thoughts:** Today I tried to make a pie chart with a timer in CSS and HTML.But I'm stuck and don't understand why. Could anyone review my code and tell me why it isn't working?
  But then a friend of mine helped me. Thanks to Moldogazy) it is working now.
 <br>
-**Link to work:** [Timer in CSS and HTML](https://kanyshaiosmonova.github.io/100daysofcode/Day9/index.html)
+**Link to work:** [Timer in CSS and HTML](https://kanyshaiosmonova.github.io/100daysofcode/Day-9/index.html)
 
 ### Day 10: February 20, 2022
 
@@ -142,3 +142,11 @@ So I will come back later and finish this last part. There are lots of things th
 **Thoughts:** Third Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/order-summary-component/README.md)
 <br>
 **Link to work:**[Order Summary Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/order-summary-component/index.html)
+
+### Day 17: February 28, 2022
+
+**Today's Progress:** Profile Card Component
+**Thoughts:** Fourth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/profile-card-component)
+<br>
+**Link to work:** [Profile Card Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/profile-card-component/index.html)
+
