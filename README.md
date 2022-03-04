@@ -34,6 +34,7 @@
 |Day 17|Feb 28, 2022|Profile Card Component(HTML/CSS)|Fourth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/profile-card-component)|[Profile Card Component ](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/profile-card-component/index.html)|
 |Day 18|Mar 1, 2022|Improved Readme file of this repository 100daysofcode(Github)|I did this with the help of ChandrikaDebs's repository. It showed me new features of Github|This file looks the way it looks now because I just changed everything here.|
 |Day 19|Mar 2, 2022|3-Column Preview Card Component(HTML/CSS)|Fifth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/3-column-preview-card-component/README.md)|[3-Column Preview Card Component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/3-column-preview-card-component/index.html)|
+|Day 20|Mar 3-4, 2022|Stats Preview Card Component(HTML/CSS)|Sixth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/stats-preview-card-component/README.md)|[Stats Preview Card Component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/stats-preview-card-component/index.html)|
 
 
 
