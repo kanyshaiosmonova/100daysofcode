@@ -38,3 +38,9 @@
 
 [Link to repo](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/stats-preview-card-component)
 [Github Pages](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/stats-preview-card-component/index.html)
+
+## DAY 21 Four Card Feature Section
+### Links
+
+[Link to repo](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/four-card-feature-section-master)
+[Github Pages](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/four-card-feature-section-master/index.html)
