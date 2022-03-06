@@ -36,6 +36,7 @@
 |Day 19|Mar 2, 2022|3-Column Preview Card Component(HTML/CSS)|Fifth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/3-column-preview-card-component/README.md)|[3-Column Preview Card Component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/3-column-preview-card-component/index.html)|
 |Day 20|Mar 3-4, 2022|Stats Preview Card Component(HTML/CSS)|Sixth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/stats-preview-card-component/README.md)|[Stats Preview Card Component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/stats-preview-card-component/index.html)|
 |Day 21|Mar 5, 2022|Four Card Feature Section(HTML/CSS)|Seventh Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/four-card-feature-section-master)|[Four Card Feature Section](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/four-card-feature-section-master/index.html)|
+|Day 22|Mar 6, 2022|Sass/Scss|Today I've learnt a lot about Sass. Started actively using it. I had one big issue. I wanted to have style.min.css in every file. But it wasn't working. I've solved this challenge. Thanks to my nerves| Savepath "~/css"|
 
 
 
