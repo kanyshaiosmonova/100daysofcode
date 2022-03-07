@@ -44,3 +44,12 @@
 
 [Link to repo](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/four-card-feature-section-master)
 [Github Pages](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/four-card-feature-section-master/index.html)
+
+## DAY 22 Sass/Scss
+Today I've learnt a lot about Sass. Started actively using it. I had one big issue. I wanted to have style.min.css in every file. But it wasn't working. I've solved this challenge. Thanks to my nerves Savepath "~/css"
+
+## DAY 23 Single Price Grid Component
+### Links
+
+[Link to repo]()
+[Github Pages](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/single-price-grid-component/index.html)
