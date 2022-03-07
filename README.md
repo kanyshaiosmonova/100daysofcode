@@ -37,7 +37,7 @@
 |Day 20|Mar 3-4, 2022|Stats Preview Card Component(HTML/CSS)|Sixth Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/stats-preview-card-component/README.md)|[Stats Preview Card Component](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/stats-preview-card-component/index.html)|
 |Day 21|Mar 5, 2022|Four Card Feature Section(HTML/CSS)|Seventh Challenge from Frontend Mentor. Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/tree/main/four-card-feature-section-master)|[Four Card Feature Section](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/four-card-feature-section-master/index.html)|
 |Day 22|Mar 6, 2022|Sass/Scss|Today I've learnt a lot about Sass. Started actively using it. I had one big issue. I wanted to have style.min.css in every file. But it wasn't working. I've solved this challenge. Thanks to my nerves| Savepath "~/css"|
-|Day 23|Mar 7, 2022|Simple Price Grid Component|Eighth challenge from Frontend Mentor.Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/single-price-grid-component/README.md)| https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/single-price-grid-component/index.html|
+|Day 23|Mar 7, 2022|Simple Price Grid Component|Eighth challenge from Frontend Mentor.Link to [documentation](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/single-price-grid-component/README.md)|[Single Price Grid Component] (https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/single-price-grid-component/index.html)|
 
 
 
