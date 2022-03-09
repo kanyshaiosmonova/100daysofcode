@@ -51,7 +51,7 @@ Today I've learnt a lot about Sass. Started actively using it. I had one big iss
 ## DAY 23 Single Price Grid Component
 ### Links
 
-[Link to repo]()<br>
+[Link to repo](https://github.com/kanyshaiosmonova/Frontend-Mentor-Challenges/blob/main/single-price-grid-component/README.md)<br>
 [Github Pages](https://kanyshaiosmonova.github.io/Frontend-Mentor-Challenges/single-price-grid-component/index.html)
 
 ## DAY 24 FreeCodeCamp 2 projects
