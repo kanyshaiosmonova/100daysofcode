@@ -42,5 +42,6 @@
 |Day 25|Mar 9, 2022|FreeCodeCamp |Responsive Web design(Beta)Course. I finished 2 projects|[CSS Color Markers](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/CSS-Color-Markers/index.html)<br>[Registration Form](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Registration-Form/index.html) |
 |Day 26|Mar 10, 2022|FreeCodeCamp |Responsive Web design(Beta)Course. I finished 2 projects|[Rothko Painting](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Rothko-Painting/index.html)<br>[Photo Gallery](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Photo-Gallery/index.html)<br>[Nutrition Label](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Nutrition-Label/index.html) |
 |Day 27|Mar 11, 2022|FreeCodeCamp |Responsive Web design(Beta)Course. I finished 3 projects|[Accessibility Quiz](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Accessibility-Quizg/index.html)<br>[Picasso Painting](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)<br>[Balance Sheet](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Balance-Sheet/index.html) |
-|Day 28|Mar 12, 2022|
-|Day 29|Mar 13,2022|
+|Day 28|Mar 12, 2022|Freecodecamp|Responsive Web Design(Beta)Course
+|Day 29|Mar 13,2022|Freecodecamp|Responsive Web Design(Beta)Course
+|Day 30|Mar 14-15,2022|freecodecamp| Responsive Web Design(Beta)course
