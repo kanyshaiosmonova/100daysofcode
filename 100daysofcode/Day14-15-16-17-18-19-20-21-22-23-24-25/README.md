@@ -66,3 +66,30 @@ Today I've learnt a lot about Sass. Started actively using it. I had one big iss
 
 [CSS Color Markers](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/CSS-Color-Markers/index.html)<br>
 [Registration Form](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Registration-Form/index.html)
+
+## DAY 26 FreeCodeCamp 3 projects
+### Links
+
+[Rothko Painting](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Rothko-Painting/index.html)<br>
+[Photo Gallery](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Photo-Gallery/index.html)<br>
+[Nutrition Label](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Nutrition-Label/index.html)
+
+## DAY 27 FreeCodeCamp 1 project
+### Links
+
+[Accessibility Quiz](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Accessibility-Quizg/index.html)
+
+## DAY 28 FreeCodeCamp 2 projects
+### Links
+[Picasso Painting](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)<br>
+[Balance Sheet](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Balance-Sheet/index.html)
+
+## DAY 29 FreeCodeCamp 2 projects
+### Links
+|Day 29|Mar 13,2022|Freecodecamp|Responsive Web Design(Beta)Course|[Piano](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Piano/index.html)|
+
+## DAY 30 FreeCodeCamp 2 projects
+### Links
+[CIty SKyline](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/City-Skyline/index.html)
+
+
