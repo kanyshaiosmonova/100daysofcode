@@ -84,11 +84,11 @@ Today I've learnt a lot about Sass. Started actively using it. I had one big iss
 [Picasso Painting](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)<br>
 [Balance Sheet](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Balance-Sheet/index.html)
 
-## DAY 29 FreeCodeCamp 2 projects
+## DAY 29 FreeCodeCamp 
 ### Links
-|Day 29|Mar 13,2022|Freecodecamp|Responsive Web Design(Beta)Course|[Piano](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Piano/index.html)|
+[Piano](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Piano/index.html)|
 
-## DAY 30 FreeCodeCamp 2 projects
+## DAY 30 FreeCodeCamp 
 ### Links
 [CIty SKyline](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/City-Skyline/index.html)
 
