@@ -45,3 +45,4 @@
 |Day 28|Mar 12, 2022|Freecodecamp|Responsive Web Design(Beta)Course|[Picasso Painting](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)<br>[Balance Sheet](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Balance-Sheet/index.html) |
 |Day 29|Mar 13,2022|Freecodecamp|Responsive Web Design(Beta)Course|[Piano](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Piano/index.html)|
 |Day 30|Mar 14, 2022|freecodecamp| Responsive Web Design(Beta)course|[CIty SKyline](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/City-Skyline/index.html)|
+|Day 31|Mar 15, 2022|freecodecamp | Responsive Web Design(Beta)course|[Grid Magazine](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Grid-Magazine/index.html)|
