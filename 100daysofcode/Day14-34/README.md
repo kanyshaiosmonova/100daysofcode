@@ -92,4 +92,18 @@ Today I've learnt a lot about Sass. Started actively using it. I had one big iss
 ### Links
 [CIty SKyline](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/City-Skyline/index.html)
 
+## DAY 31 FreeCodeCamp 
+### Links
+[Grid Magazine](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Grid-Magazine/index.html)
 
+## DAY 32 FreeCodeCamp 
+### Links
+[Penguin](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Penguin/index.html)
+
+## DAY 33 FreeCodeCamp 
+### Links
+[Ferris-WHeel](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Ferris-Wheel/index.html)
+
+## DAY 34 FreeCodeCamp 
+### Links
+[Bootstrap-Tindog]
