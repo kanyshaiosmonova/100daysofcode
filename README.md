@@ -48,4 +48,4 @@
 |Day 31|Mar 15, 2022|freecodecamp | Responsive Web Design(Beta)course|[Grid Magazine](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Grid-Magazine/index.html)|
 |Day 32|Mar 16, 2022|freecodecamp | Responsive Web Design(Beta)course|[Penguin](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Penguin/index.html)|
 |Day 33|Mar 17, 2022|freecodecamp | Responsive Web Design(Beta)course|[Ferris-WHeel](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Ferris-Wheel/index.html)|
-|Day 34|Mar 18-19, 2022|Course by Anjela Yu on Udemy | Web Development Bootcamp|[Bootstrap-Tindog]|
+|Day 34|Mar 18-19, 2022|Course by Anjela Yu on Udemy | Web Development Bootcamp|[Bootstrap-Tindog](https://kanyshaiosmonova.github.io/Web-Development-Bootcamp-Projects/Bootstrap-TinDog/)|
