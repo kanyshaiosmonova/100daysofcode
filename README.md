@@ -50,3 +50,4 @@
 |Day 33|Mar 17, 2022|freecodecamp | Responsive Web Design(Beta)course|[Ferris-WHeel](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Ferris-Wheel/index.html)|
 |Day 34|Mar 18-19, 2022|Course by Anjela Yu on Udemy | Web Development Bootcamp|[Bootstrap-Tindog](https://kanyshaiosmonova.github.io/Web-Development-Bootcamp-Projects/Bootstrap-TinDog/)|
 |Day 35|Mar 20, 2022|freeCodecamp Bootstrap| In this course, I learnt how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.|[Bootstrap]|
+|Day 36|Mar 21, 2022|freeCodecamp jQuery| In this course, I learnt how to use jQuery to select, remove, clone, and modify different elements on the page.|[jQuery]|
