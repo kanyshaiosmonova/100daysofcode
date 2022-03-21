@@ -104,6 +104,16 @@ Today I've learnt a lot about Sass. Started actively using it. I had one big iss
 ### Links
 [Ferris-WHeel](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Ferris-Wheel/index.html)
 
-## DAY 34 FreeCodeCamp 
+## DAY 34 Anjela Yu Udemy 
 ### Links
 [Bootstrap-Tindog]
+
+## DAY 35 FreeCodeCamp 
+### Links
+[Bootstrap]In this course, I learnt how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.
+
+## DAY 36 FreeCodeCamp 
+### Links
+[jquery] In this course, I learnt how to use jQuery to select, remove, clone, and modify different elements on the page.
+
+
