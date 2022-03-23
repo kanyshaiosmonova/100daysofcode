@@ -120,3 +120,6 @@ Today I've learnt a lot about Sass. Started actively using it. I had one big iss
 ### Links
 [Saas] In this Sass course, I learnt how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to styles, and more.
 
+## Day 38
+###links
+[React]In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more.
