@@ -52,4 +52,6 @@
 |Day 35|Mar 20, 2022|freeCodecamp Bootstrap| In this course, I learnt how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.|[Bootstrap]|
 |Day 36|Mar 21, 2022|freeCodecamp jQuery| In this course, I learnt how to use jQuery to select, remove, clone, and modify different elements on the page.|[jQuery]|
 |Day 37|Mar 22, 2022|freeCodecamp Saas|  In this Sass course, I learnt how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to styles, and more.|[Saas]|
+|Day 38|Mar 23, 2022|freeCodecamp React| In this course, I learnt how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more. |[React]|
+
 
