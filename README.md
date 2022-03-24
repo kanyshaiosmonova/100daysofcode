@@ -53,5 +53,5 @@
 |Day 36|Mar 21, 2022|freeCodecamp jQuery| In this course, I learnt how to use jQuery to select, remove, clone, and modify different elements on the page.|[jQuery]|
 |Day 37|Mar 22, 2022|freeCodecamp Saas|  In this Sass course, I learnt how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to styles, and more.|[Saas]|
 |Day 38|Mar 23, 2022|Introduction to Javascript, ES6| In this course, I learnt about Javascript, JS variables, variable naming, data types, slicing, basic arithmetic and modulo operators, incrementing and decrementing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
-
+|Day 39|Mar 24, 2022|javascript Functions|Today I learned about javascript Functions and practiced actively by working on challenges that the course on Udemy was providing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 
