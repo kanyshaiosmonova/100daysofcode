@@ -56,3 +56,4 @@
 |Day 39|Mar 24, 2022|javascript Functions|Today I learned about javascript Functions and practiced actively by working on challenges that the course on Udemy was providing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 
 |Day 40|Mar 25, 2022|Intermediate javascript|Today I learned about javascript Functions and practiced actively by working on challenges that the course on Udemy was providing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
+
