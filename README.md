@@ -55,3 +55,4 @@
 |Day 38|Mar 23, 2022|Introduction to Javascript, ES6| In this course, I learnt about Javascript, JS variables, variable naming, data types, slicing, basic arithmetic and modulo operators, incrementing and decrementing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 |Day 39|Mar 24, 2022|javascript Functions|Today I learned about javascript Functions and practiced actively by working on challenges that the course on Udemy was providing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 
+|Day 40|Mar 25, 2022|Intermediate javascript|Today I learned about javascript Functions and practiced actively by working on challenges that the course on Udemy was providing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
