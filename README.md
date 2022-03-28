@@ -55,6 +55,6 @@
 |Day 38|Mar 23, 2022|Introduction to Javascript, ES6| In this course, I learnt about Javascript, JS variables, variable naming, data types, slicing, basic arithmetic and modulo operators, incrementing and decrementing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 |Day 39|Mar 24, 2022|javascript Functions|Today I learned about javascript Functions and practiced actively by working on challenges that the course on Udemy was providing.|[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 |Day 40|Mar 25, 2022|Intermediate javascript|Learned about random number generation with Math.random( ), control statements if/else, comparators and equality in javascript. |[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
-|Day 41|Mar 26, 2022|functions, arrays| Learned a lot about Functions and arrays from course and books. |(https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
-|Day 42|Mar 27, 2022|Calculator with Math.random and Math.floor  |[Love Calculator](https://kanyshaiosmonova.github.io/Web-Development-Bootcamp-Projects/Love-Calculator) |
-|Day 43|Mar 28, 2022| Read the book " Javascript с нуля" |
+|Day 41|Mar 26, 2022|functions, arrays| Learned a lot about Functions and arrays from course and books. |[Link to exercise](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
+|Day 42|Mar 27, 2022|Javascript |Calculator with Math.random and Math.floor  |[Love Calculator](https://kanyshaiosmonova.github.io/Web-Development-Bootcamp-Projects/Love-Calculator) |
+|Day 43|Mar 28, 2022| Read the book " Javascript с нуля" 6 sections. |
