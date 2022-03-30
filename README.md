@@ -57,4 +57,5 @@
 |Day 40|Mar 25, 2022|Intermediate javascript|Learned about random number generation with Math.random( ), control statements if/else, comparators and equality in javascript. |[Link to exercise files](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 |Day 41|Mar 26, 2022|functions, arrays| Learned a lot about Functions and arrays from course and books. |[Link to exercise](https://github.com/kanyshaiosmonova/Web-Development-Bootcamp-Projects/tree/main/Exercise)|
 |Day 42|Mar 27, 2022|Javascript |Calculator with Math.random and Math.floor  |[Love Calculator](https://kanyshaiosmonova.github.io/Web-Development-Bootcamp-Projects/Love-Calculator) |
-|Day 43|Mar 28, 2022| Read the book " Javascript с нуля" 6 sections. |
+|Day 43|Mar 28, 2022| Read the book " Javascript с нуля" 6 sections. | I didn't do any projects today| Took a day-off |
+|Day 44|Mar 29-30, 2022|50 Projects in 50 days|  Started course 50 Projects in 50 days with html/css/js | [Link to repo](https://github.com/kanyshaiosmonova/50Projects50Days/tree/main/Expanding-Cards) <br> [Live Site](https://kanyshaiosmonova.github.io/50Projects50Days/Expanding-Cards/index.html) |
