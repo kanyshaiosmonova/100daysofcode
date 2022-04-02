@@ -60,4 +60,4 @@
 |Day 43|Mar 28, 2022| Read the book " Javascript с нуля" 6 sections. | I didn't do any projects today| Took a day-off |
 |Day 44|Mar 29-30, 2022|50 Projects in 50 days|  Started course 50 Projects in 50 days with html/css/js | [Link to repo](https://github.com/kanyshaiosmonova/50Projects50Days/tree/main/Expanding-Cards) <br> [Live Site](https://kanyshaiosmonova.github.io/50Projects50Days/Expanding-Cards/index.html) |
 |Day 45|Mar 31, 2022|Progress Step |
-|Day 46|Apr 1-2, 2022|Read the book Javascript 3 Section|
+|Day 46|Apr 1-2, 2022|Read the book "Javascript с нуля"| 6 Sections |-|
